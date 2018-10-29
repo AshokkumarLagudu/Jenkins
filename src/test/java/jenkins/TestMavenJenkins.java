@@ -13,6 +13,8 @@ public class TestMavenJenkins {
 		driver.manage().deleteAllCookies();
 		driver.manage().window().maximize();
 		driver.get("http://facebook.com");
+		
+		
 	}
 
 }
